@@ -17,6 +17,7 @@
 
 <modules>
 	<module>chapter01_fundamentals</module>
+	<module>chapter02_java_programming</module>
 </modules>
 
 
